@@ -1,7 +1,5 @@
 # laundry-management-system
 
-<<<<<<< HEAD
-
 This is just a laundry management system without any cool styles just the functionality.
 
 ## Front-end
